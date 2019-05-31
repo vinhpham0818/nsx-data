@@ -1,0 +1,19 @@
+.main-header {
+    height: 50px;
+    width: 100%;
+    background: #c2c2c2;
+    colo: #ffffff;
+    padding: 20px;
+}
+
+.main-header ul {
+    list-style: none;
+    margin-top: -10px;
+}
+
+.main-header ul li {
+    display: inline;
+    padding: 10px;
+    color: blue;
+    text-transform: uppercase;
+}
